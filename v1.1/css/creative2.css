@@ -330,7 +330,9 @@ header .header-content .header-content-inner p {
 .text-primary {
     color: #571604;
 }
-
+.text-cloud {
+    color: #00BFFF;
+}
 .no-gutter > [class*=col-] {
     padding-right: 0;
     padding-left: 0;
